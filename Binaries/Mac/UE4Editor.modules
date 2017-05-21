@@ -1,0 +1,10 @@
+{
+	"Changelist" : 3416026,
+	"CompatibleChangelist" : 3299760,
+	"BuildId" : "20419976-cf50-4f1a-bee6-999f66a22636",
+	"Modules" : 
+	{
+		"ArenaBattle" : "UE4Editor-ArenaBattle.dylib",
+		"WebService" : "UE4Editor-WebService.dylib"
+	}
+}
